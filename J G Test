@@ -1,0 +1,6 @@
+echo "# J-G-Start" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/j-g-photography/J-G-Start.git
+git push -u origin master
